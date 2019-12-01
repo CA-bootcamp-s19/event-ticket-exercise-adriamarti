@@ -9577,12 +9577,12 @@
         }
       },
       "links": {},
-      "address": "0x7F8c91FDb17b4B8e6CBE83E6ac3Fe794AC527456",
-      "transactionHash": "0xb34c891f8915b16a52de90656868f7ccdeb698fdd02b76c733945f2d43ab24fd"
+      "address": "0xCFfd10C1b24C57f8b0ED119D961335Ae996c4465",
+      "transactionHash": "0xec2a0a34234df55ac2c7172fef8740b10e5a15ed5a9fa32325d5570b8028f009"
     }
   },
   "schemaVersion": "3.0.19",
-  "updatedAt": "2019-11-28T18:31:57.050Z",
+  "updatedAt": "2019-11-28T19:11:16.519Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
